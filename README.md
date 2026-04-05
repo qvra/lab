@@ -46,6 +46,10 @@ Related routes:
 No experiment should stay here by inertia.
 It should either move, split, harden, or die.
 
+## First live experiment
+
+- [`experiments/anchor-signal`](./experiments/anchor-signal) — field-shape scan of the 5 Class A anchors
+
 ## Status
 
 Active anchor surface.

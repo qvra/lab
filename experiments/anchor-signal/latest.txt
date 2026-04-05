@@ -1,0 +1,53 @@
+repo  | files | executables | readme | latest | signal_score
+------+-------+-------------+--------+--------+-------------
+run   | 5     | 1           | True   | False  | 10          
+bench | 6     | 0           | True   | True   | 9           
+lab   | 6     | 1           | True   | True   | 12          
+show  | 3     | 0           | True   | False  | 5           
+pulse | 3     | 0           | True   | False  | 5           
+
+{
+  "root": "/Users/midiakiasat/Downloads/Apps/midiakiasat/qvra",
+  "anchors": [
+    {
+      "repo": "run",
+      "files": 5,
+      "executables": 1,
+      "readme": true,
+      "latest": false,
+      "signal_score": 10
+    },
+    {
+      "repo": "bench",
+      "files": 6,
+      "executables": 0,
+      "readme": true,
+      "latest": true,
+      "signal_score": 9
+    },
+    {
+      "repo": "lab",
+      "files": 6,
+      "executables": 1,
+      "readme": true,
+      "latest": true,
+      "signal_score": 12
+    },
+    {
+      "repo": "show",
+      "files": 3,
+      "executables": 0,
+      "readme": true,
+      "latest": false,
+      "signal_score": 5
+    },
+    {
+      "repo": "pulse",
+      "files": 3,
+      "executables": 0,
+      "readme": true,
+      "latest": false,
+      "signal_score": 5
+    }
+  ]
+}
